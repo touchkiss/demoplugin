@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.touchkiss.demoplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.touchkiss.demoplugin.MyBundle
 
 class MyApplicationService {
 
